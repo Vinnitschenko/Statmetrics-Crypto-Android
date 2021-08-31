@@ -1,4 +1,4 @@
-# Statmetrics for Android
+# Crypto Analytics for Android
 <img src="https://raw.githubusercontent.com/Vinnitschenko/Statmetrics-Crypto-Android/master/statmetrics.jpg">
 
 
