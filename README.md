@@ -7,14 +7,14 @@
 
 
 <p align="center">  
-<a href="https://play.google.com/store/apps/details?id=org.statmetrics.app.cryptocurrency"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="120"></a>
+<a href="https://play.google.com/store/apps/details?id=org.statmetrics.app.cryptocurrency&referrer=utm_source%3Dgithub.com"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="120"></a>
 <br/>
 <a href="http://www.amazon.com/gp/mas/dl/android?p=org.statmetrics.app.cryptocurrency"><img src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-white.png" height="80" alt="Download from Amazon Appstore"></a>
 
 </p>
 
 [www.statmetrics.org](http://www.statmetrics.org/) | 
-[Google Play](https://play.google.com/store/apps/details?id=org.statmetrics.app.cryptocurrency) | 
+[Google Play](https://play.google.com/store/apps/details?id=org.statmetrics.app.cryptocurrency&referrer=utm_source%3Dgithub.com) | 
 [Twitter](https://twitter.com/statmetrics) | 
 [Facebook](https://www.facebook.com/Statmetrics-110841637303428/) | [LinkedIn](https://www.linkedin.com/company/statmetrics/)
 
